@@ -78,7 +78,7 @@ Key improvements achieved:
 - Thread utilization: Improved parallel processing
 - Memory layout: Better spatial locality
 
-See README.md for detailed technical analysis and benchmarks.
+See ultra-fit.md for detailed technical analysis and benchmarks.
 
 ## Contributing
 
